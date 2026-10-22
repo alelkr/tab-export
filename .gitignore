@@ -1,0 +1,8 @@
+# Exportierte Tab-Listen enthalten persönliche Browsing-Daten und sollen nie
+# versehentlich committet werden.
+*.csv
+tabs_*.csv
+
+# Editor-/OS-Artefakte
+.DS_Store
+Thumbs.db
